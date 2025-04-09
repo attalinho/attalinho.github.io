@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Ma Boutique de Lunettes</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Bienvenue dans ma boutique de lunettes !</h1>
+  <p>Nos meilleurs modèles sont à découvrir ici.</p>
+</body>
+</html>
